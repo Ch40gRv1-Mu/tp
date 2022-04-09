@@ -1,6 +1,6 @@
 # Mod Happy: User Guide
 
---- (three dashes)
+<!---just--->
 ## Contents
 1. [Introduction](#1-introduction)
 2. [Quick start](#2-quick-start)
