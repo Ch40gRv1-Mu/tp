@@ -1,5 +1,6 @@
 # Mod Happy: User Guide
 
+--- (three dashes)
 ## Contents
 1. [Introduction](#1-introduction)
 2. [Quick start](#2-quick-start)
@@ -25,6 +26,7 @@
 6. [Command summary](#6-command-summary)
 
 ---
+
 
 ## 1. Introduction
 
